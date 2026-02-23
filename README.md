@@ -8,3 +8,6 @@ This repository contains the required files for the GitHub UI and Git CLI tasks.
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - simple-interest.sh
+
+## Notes
+Minor typo fixes.
